@@ -1,4 +1,4 @@
-FROM debian:testing-slim
+FROM debian:stretch-slim
 
 ARG DEBIAN_FRONTEND=noninteractive
 
