@@ -42,6 +42,5 @@ RUN apt-get update && apt-get install -y \
     pandoc \
     pandoc-citeproc \
     && apt-get --purge remove -y "texlive-*-doc" \
-    && apt-get --purge autoremove -y \
     && apt-get clean -y \
     && rm -rf /var/lib/apt/lists/*
