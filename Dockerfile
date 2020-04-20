@@ -1,4 +1,4 @@
-FROM debian:testing-slim
+FROM debian:jessie-slim
 
 ARG DEBIAN_FRONTEND=noninteractive
 
