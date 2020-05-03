@@ -11,8 +11,7 @@ The images contain a distribution of latex and friends:
 - pandoc
 - pandoc-citeproc
 
-on various debian versions from wheezy to sid, maintained for legacy reasons,
-for wheezy, jessie, stretch, buster and currently used (:latest) for testing:
+on various debian versions:
 
 ## Versions
 
