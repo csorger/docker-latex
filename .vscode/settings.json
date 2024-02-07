@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "biber",
+        "csorger",
+        "latexmk",
+        "noninteractive",
+        "NOPASSWD",
+        "pandoc",
+        "texlive"
+    ],
+    "cSpell.enableFiletypes": [
+        "dockerfile"
+    ]
+}
